@@ -1,4 +1,4 @@
 # whack-a-mole
 
-source code in js/
-babel transpiled code in lib/
+- source code in js/
+- babel compiled code in lib/
